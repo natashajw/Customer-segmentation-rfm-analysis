@@ -1,4 +1,5 @@
 📊 Customer Segmentation & Revenue Analysis using RFM
+
 📌 Project Overview
 
 This project applies RFM (Recency, Frequency, Monetary) analysis to segment customers based on purchasing behavior.
